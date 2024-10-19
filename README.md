@@ -1,4 +1,4 @@
-# Landing-Page-HTML-CSS
+# Boilerplate Landing Page desenvolvida com HTML e CSS
 
 * Project Deployed in https://model-landingpage.netlify.app/
 
